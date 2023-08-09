@@ -1,0 +1,30 @@
+#mainbackground{
+background-color: #462B1E;
+padding:5%;
+}
+
+#cardborder{
+background-color: #AA5D2E;
+padding:5%;
+}
+
+#cardbackground{
+padding: 5%;
+background-color: #F0BD8D;
+}
+
+#subtitle{
+color: #462B1E;
+font-size: 3vw;
+}
+
+.infotext{
+color: #462B1E;
+font-size: 1.5vw;
+}
+
+
+.usspacing{
+padding-top: 20%;
+margin-bottom: -1rem;
+}
