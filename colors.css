@@ -28,3 +28,17 @@ font-size: 1.5vw;
 padding-top: 20%;
 margin-bottom: -1rem;
 }
+
+.fix{
+    position:fixed;
+    bottom:0px;
+    margin-left: -25rem;
+    max-width: 80vh;
+}
+
+#door{
+min-height: 100vh;
+background-image: url("door.svg");
+background-size: cover;
+width: 90vw;
+}
