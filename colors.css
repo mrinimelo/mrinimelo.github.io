@@ -29,10 +29,17 @@ padding-top: 20%;
 margin-bottom: -1rem;
 }
 
+@media (max-width: 350px) {
+  .fix{
+  min-width: 60vh;
+  max-width: 80vh;
+  }
+}
+
 .fix{
     position:fixed;
     bottom:0px;
-    margin-left: -25rem;
+    margin-left: -10rem;
     max-width: 80vh;
 }
 
